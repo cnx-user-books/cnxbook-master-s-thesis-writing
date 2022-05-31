@@ -1,0 +1,49 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Writing a Medical Master's Thesis Paper</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m40198</md:content-id>
+  <md:title>Writing a Medical Master's Thesis Paper</md:title>
+  <md:abstract/>
+  <md:uuid>ffd23654-65d9-4621-87c3-ca75cd29c65f</md:uuid>
+</metadata>
+
+<content>
+    
+    <para id="id1165998304883">Writing a thesis paper may be part of your Master’s degree requirement for a medical college program. Writing a thesis paper can be a daunting task, especially if you have never written a college paper before. There are many misconceptions students have when writing a thesis paper. A thesis paper is <emphasis effect="bold">not:</emphasis></para>
+    <list id="id1165988146200" list-type="bulleted">
+      <item>An extensive report or revision of published literature.</item>
+      <item>A summary of the facts or findings of a single article or different published sources. </item>
+      <item>An entire collection of multiple quotations of published work from different sources.</item>
+      <item>Based on unsubstantiated or controversial personal opinions or biases alone. </item>
+    </list>
+    <para id="id1165999425825">A thesis paper presents an issue and how you feel about that issue. The issue is defended by stating your own opinion in your own words. This makes the thesis paper original and one of a kind. It is your own creation based on your synthesis, analysis and evaluation (Blooms’ Taxonomy levels of learning) of peer-reviewed evidence based data or facts. <sup>[1]</sup> Peer-reviewed evidence based data or facts help support your opinion or take a stand on the issue on your thesis paper. You <emphasis effect="bold">must</emphasis> properly reference and cite all peer-reviewed evidence based data or facts to avoid plagiarism in your thesis paper.</para>
+    <para id="id1165989275156">Peer-reviewed evidence based data or facts help define the type of research your thesis paper is going to be about. There are three different types of research that can be used for a medical thesis paper: meta-analysis, comparison &amp; contrast or clinical-case. Each type of research is unique and has a different set of requirements. </para>
+    <para id="id1165987799801">Meta-analysis is "a quantitative method of combining the results of independent studies (usually drawn from the published literature) and synthesizing summaries and conclusions which may be used to evaluate therapeutic effectiveness, plan new studies, etc., with application chiefly in the areas of research and medicine."<sup>[2]</sup> Meta-analysis defines a hypothesis or problem about clinical laboratory tests or therapeutic drugs. It requires the collection of various sets of numerical data and results from clinical laboratory tests or human clinical trials. For meta-analysis, the supportive numerical data and results <emphasis effect="bold">must meet three specific criteria</emphasis>:</para>
+    <list id="id1165987816509" list-type="enumerated" number-style="arabic">
+      <item>Data was collected using similar research methodology or procedures.</item>
+      <item>Experiments performed were controlled, accurate and reliable.</item>
+      <item>Data and results are complete and free of personal errors or biases.</item>
+    </list>
+    <para id="id1165985094685">The supportive numerical data and results are then mathematically analyzed to validate or confirm the conclusions in support of the hypothesis or problem. </para>
+    <para id="id1165987946256">Comparison &amp; contrast presents the benefits, improvements or reliability of two new discoveries in the prevention, diagnosis <emphasis effect="bold">or</emphasis> treatment of a particular condition or disease. Comparison &amp; contrast compares feature by feature the two new discoveries. It also evaluates the risks and benefits associated with the two new discoveries. Comparison &amp; contrast:</para>
+    <list id="id1165996440906" list-type="bulleted">
+      <item>Determines which of the two new discoveries is useful or has a better application in the medical field</item>
+      <item>Justifies why this new discovery is a better alternative or option in the prevention, diagnosis <emphasis effect="bold">or</emphasis> treatment of a specific condition or disease. </item>
+    </list>
+    <para id="id1165990152058">A clinical-case aims to analyze and make improvements in patient care or medical practice. This is also known evidence-based medicine or as the acronym PICO.<sup> [3] </sup>The PICO model has four distinct categories: problem/disorder, intervention, comparison and outcome. <sup>[4] </sup>Each category has a defined purpose: </para>
+    <list id="id1166000421264" list-type="enumerated" number-style="arabic">
+      <item>The problem/disorder describes a particular disease or condition common to a patient population. </item>
+      <item>Intervention focuses on new changes, improvements <emphasis effect="bold">or</emphasis> regulations in the management, diagnosis <emphasis effect="bold">or</emphasis> treatment of the chosen disease or condition. </item>
+      <item>Comparison compares feature by feature and outweighs the risks and benefits of the new change, improvement <emphasis effect="bold">or</emphasis> regulation against a current practice/standard. </item>
+      <item>The outcome determines and defends the benefits and results seen from the intervention.</item>
+    </list>
+    <para id="id1165997347603">Knowing which type of research interests you helps narrow the topic and decide which type of published peer-reviewed evidence based data or facts must be collected to support your opinion.</para>
+    <para id="id1165994931237">References:</para>
+    <list id="id1165991980509" list-type="enumerated" number-style="arabic">
+      <item>Truman State University. <link url="http://successcenter.truman.edu/userfiles/Levels_of_Learning_Blooms_Taxonomy_in_Action-TSSC.pdf"><emphasis effect="underline">Levels of Learning: Bloom's Taxonomy in Action</emphasis></link>. Retrieved on 2011-08-05</item>
+      <item>National Library of Medicine. <link url="http://www.nlm.nih.gov/cgi/mesh/2007/MB_cgi?term=meta-analysis"><emphasis effect="underline">Meta-analysis</emphasis></link>. Retrieved on 2011-08-02. </item>
+      <item>Thomas Jefferson University. <link url="http://jeffline.tju.edu/Ask/Help/Handouts/EBM_PICO.pdf"><emphasis effect="underline">Evidence-Based Medicine: The Well-Built Clinical Question</emphasis></link>. Retrieved on 2011-08-05</item>
+      <item>University of Medicine and Dentistry of New Jersey-Camden. <link url="http://www.umdnj.edu/camlbweb/EBM/picomodel.pdf"><emphasis effect="underline">Evidence-Based Medicine: The PICO Model</emphasis></link>. Retrieved on 2011-08-05</item>
+    </list>
+  </content>
+</document>

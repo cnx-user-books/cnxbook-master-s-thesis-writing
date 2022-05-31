@@ -1,0 +1,110 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Approach to a Master's Thesis Paper</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m40884</md:content-id>
+  <md:title>Approach to a Master's Thesis Paper</md:title>
+  <md:abstract/>
+  <md:uuid>56d301e7-c20b-43b6-abf8-af2fbb6f2e1f</md:uuid>
+</metadata>
+
+<content>
+    
+    <para id="id1171802116543">After narrowing the topic, it is important to consider the approach to the thesis paper. The approach defines the specific subject and guides the direction of the content of the thesis paper. It also helps narrow the scope of the literature search. Three functional approaches for a medical thesis paper are: </para>
+    <table id="id1171792082429" summary="follow three rows"><title> Selecting an Approach for your Master's Thesis Paper</title>
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+	<colspec colnum="2" colname="c2"/>
+	<colspec colnum="3" colname="c3"/>
+	<colspec colnum="4" colname="c4"/>
+	<tbody>
+		<row>
+			<entry>Approach</entry>
+			<entry>Tasks to the Approach</entry>
+			<entry>Supportive Evidence Based Data or Facts Needed</entry>
+			<entry>Your Own Interpretation</entry>
+		</row>
+		<row>
+			<entry>Meta-analysis</entry>
+			<entry>
+				<list id="id1171814153164" list-type="enumerated" number-style="arabic">
+					<item>Search for clinical trials or laboratory results.</item>
+					<item>Develop a hypothesis, problem or statement about laboratory tests or therapeutic treatments.</item>
+				</list>
+			</entry>
+			<entry>
+				<list id="id1171826088762" list-type="enumerated" number-style="arabic">
+					<item>Articles with numerical data and results from different studies that use the same/similar methods or procedures.</item>
+					<item>Data must be complete and free of biases.</item>
+				</list>
+			</entry>
+			<entry>
+				<list id="id1171789414144" list-type="enumerated" number-style="arabic">
+					<item>Statistical analysis of sets of clinical data and results.</item>
+					<item>Reaches a conclusion.</item>
+					<item>Defends the conclusion.</item>
+				</list>
+			</entry>
+		</row>
+		<row>
+			<entry>Comparison &amp; Contrast</entry>
+			<entry>
+				<list id="id1171792288386" list-type="enumerated" number-style="arabic">
+					<item>Search for new discoveries or findings in the medical field.</item>
+					<item>Focus <emphasis effect="bold">on one</emphasis> aspect (<emphasis effect="italics">prevention, diagnosis </emphasis><emphasis effect="italics">or</emphasis><emphasis effect="italics"> treatment</emphasis>) of a particular disease or condition.</item>
+				</list>
+			</entry>
+			<entry>
+				<list id="id1171804071403" list-type="enumerated" number-style="arabic">
+					<item>Articles about two new discoveries or findings on the chosen aspect.</item>
+				</list>
+			</entry>
+			<entry>
+				<list id="id1171801952508" list-type="enumerated" number-style="arabic">
+					<item>Determines which of the two new discoveries or findings is better.</item>
+					<item>Defends the recommendation.</item>
+				</list>
+			</entry>
+		</row>
+		<row>
+			<entry>Clinical-case (PICO)</entry>
+			<entry>
+				<list id="id1171804338690" list-type="enumerated" number-style="arabic">
+					<item>Search the etiology, management, diagnosis and treatment of a particular disease or condition.</item>
+					<item>Focus <emphasis effect="bold">on one</emphasis> aspect of patient or medical care (management, diagnosis <emphasis effect="bold">or</emphasis> treatment).</item>
+				</list>
+			</entry>
+			<entry>
+				<list id="id4385470" list-type="enumerated" number-style="arabic">
+					<item>Articles about a new change, improvement or regulation <emphasis effect="bold">and</emphasis> the current practice or standard on the chosen aspect.</item>
+				</list>
+			</entry>
+			<entry>
+				<list id="id1171801903036" list-type="enumerated" number-style="arabic">
+					<item>Evaluates why the new improvement is better than the current practice or standard.</item>
+					<item>Defends the recommendation.</item>
+				</list>
+			</entry>
+		</row>
+	</tbody>
+
+</tgroup>
+</table>
+    <para id="id1171791751847">Each approach is unique to the type of paper you want to develop. For each approach, you must do a literature review. Literature review is <emphasis effect="bold">NOT</emphasis> a summary of all the published literature collected for the specific subject. Literature review is a tool, not a goal. It is a step in each of the three approaches mentioned above. It contributes to the finished product but by no means constitute a thesis paper. Literature review provides the supporting documentation necessary to make your own interpretation in each approach. Literature review also determines whether the chosen approach can be developed into a thesis paper or another approach should be used on the same topic. </para>
+    <para id="id1171804412431">One common misconception is that one can summarize a published literature review article. This is not a thesis paper. Published literature review articles are written by experts in the field. They spend time collecting and referencing multiple published sources. These experts have also put their own analysis and interpretations about a specific subject in their papers. Mimicking published work done by experts does not constitute original work. Claiming this work as your own is plagiarism. To avoid plagiarism, consider the follow questions: </para>
+    <list id="id1171796466778" list-type="bulleted">
+      <item>What is your contribution to this topic? </item>
+      <item>What have you contributed that is new? </item>
+      <item>What would any reader learn from this?</item>
+      <item>How does the literature review support your analysis and interpretation of the topic?</item>
+      <item>Can you produce a copy of your annotated bibliography? </item>
+    </list>
+    <para id="id1171821641328">If you can answer all these questions, plagiarism is not a problem. If any of the above questions cannot be answered, then look at the purpose, target audience and approach to help define the goal and direction of your thesis paper. If a reference is not in your annotated bibliography, do not use that source for your thesis paper. When in doubt, seek proper guidance from your professors or counselors before you start developing your thesis paper.</para>
+    <para id="id1171804343762">At this point, begin to work on the early steps of your Master’s thesis paper:</para>
+    <list id="id1171802377381" list-type="enumerated" number-style="arabic">
+      <item>Purpose</item>
+      <item>Target audience</item>
+      <item>Approach</item>
+      <item>Search and collection of published peer-reviewed sources</item>
+      <item>Literature review</item>
+    </list>
+  </content>
+</document>
